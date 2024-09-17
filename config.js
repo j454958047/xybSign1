@@ -24,8 +24,8 @@ const config = {
     //   needReport: false, //是否自动填写周报
     // },
   ],
-  qmsgKey: "", //qmsg酱key
-  qmsgTo: "", //推送的qq号,用,分隔(可选)
+  qmsgKey: "8180f3176c08248a5cc6c50174f5168a", //qmsg酱key
+  qmsgTo: "897526207", //推送的qq号,用,分隔(可选)
 };
 
 const modeCN = {
