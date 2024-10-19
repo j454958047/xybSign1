@@ -2,8 +2,8 @@ const config = {
   mode: "in", // 签到:in,签退:out
   accounts: [
     {
-      username: "18295366609", //用户名
-      password: "cjzbgsyxjy1", //密码
+      username: "15109680368", //用户名
+      password: "Jx112886", //密码
       openId: "", //微信小程序抓包openid(可选)
       unionId: "", //微信小程序抓包unionId(可选)
       sign: true, //是否自动签到
